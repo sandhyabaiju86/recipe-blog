@@ -1,0 +1,18 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+     color: brown;
+    }
+    ul{
+         display: flex;
+         flex-direction: row; 
+         margin: 10px;
+    }
+    li{
+        list-style-type: none;
+    }
+    img{
+        width:300px;
+         height:300px;
+         margin-right: 50px;
+    }

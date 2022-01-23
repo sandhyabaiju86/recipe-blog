@@ -1,0 +1,23 @@
+body{
+    background-color:lightpink;
+}
+h1{
+    color: chocolate;
+    text-align: center;
+}
+img{
+   margin: 0px auto;
+   margin-left: 350px;
+}
+h3{
+    color: brown;
+}
+p{
+    color: darkolivegreen;
+}
+ul li{
+    color: crimson;
+}
+ol li{
+    color: darkred;
+}
